@@ -1,10 +1,10 @@
-package com.spring.whitoutjpa.sinjpa;
+package com.parcial.dos.parcialdos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SinjpaApplicationTests {
+class ParcialdosApplicationTests {
 
 	@Test
 	void contextLoads() {
